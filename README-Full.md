@@ -75,43 +75,44 @@ document.querySelectorAll('a[href]').forEach((link) => {
 ## 过去
 
 ### 2022年
-**05月24日 [+]** 完成《[OVA 巨乳エルフ母娘○○ ＃2 女王と姫の快楽調教。守護騎士は○○に沈む](http://www.getchu.com/soft.phtml?id=1154466)》的待校对时轴。  
-**05月20日 [+]** 加入魔穗字幕组；完成《[OVA 巨乳エルフ母娘○○ ＃1 エルフの国を蹂躙する男。汚された女王と姫](http://www.getchu.com/soft.phtml?id=1154455)》的待校对时轴。  
+**05月30日 [+]** 完成《[コスプレチェンジ～ピュア系女子大生の危険な性癖～ 第二話 巨乳女子大生がコスプレ七変化!?疑惑の取り調べ室で手錠拘束プレイ](http://www.getchu.com/soft.phtml?id=1155732)》的待校对字幕。  
+**05月24日 [+]** 完成《[OVA 巨乳エルフ母娘○○ ＃2 女王と姫の快楽調教。守護騎士は○○に沈む](http://www.getchu.com/soft.phtml?id=1154466)》的待校对字幕。<span class="shady">不实用。短短16分钟，塞下了四位女性角色和片尾。</span>  
+**05月20日 [+]** 加入魔穗字幕组；完成《[OVA 巨乳エルフ母娘○○ ＃1 エルフの国を蹂躙する男。汚された女王と姫](http://www.getchu.com/soft.phtml?id=1154455)》的待校对字幕。  
 **05月15日 [+]** 完成《[OVA ○○性指導 ＃5](http://www.getchu.com/soft.phtml?id=1159399)》《[OVA ○○性指導 ＃6](http://www.getchu.com/soft.phtml?id=1159400)》的字幕修正。<span class="shady">等待繁体化版本制作完成一同发布。</span>  
-**05月13日 [+]** 完成《[OVA ○○性指導 ＃6](http://www.getchu.com/soft.phtml?id=1159400)》的待校对时轴。  
-**05月07日 [+]** 完成《[OVA ○○性指導 ＃5](http://www.getchu.com/soft.phtml?id=1159399)》的待校对时轴；<span class="shady">我们却校对和繁化，但我不会日语，不知道怎么考核...</span>创建 [liulipack/blank-timing](https://github.com/liulipack/blank-timing) 仓库，存储空白时轴。  
-**04月07日 [+]** 完成《[うさみみボウケンタン～セクハラしながら世界を救え～ 第四話 最終決戦！勇者と精霊は結ばれ、想いは受け継がれる](http://www.getchu.com/soft.phtml?id=1163795)》《[エロ医師 ワイセツチン療・綾乃＆怜奈～ちょろハメ危嬉いっぱつ～](https://www.getchu.com/soft.phtml?id=1163797)》的待校对时轴。  
-**03月31日 [+]** 完成《[○○交配 第五話 内気な彼女は人魚の歌姫](http://www.getchu.com/soft.phtml?id=1163796)》的待校对时轴。  
-**03月30日 [+]** 完成《[Abandon ‐100ヌキしないと出られない不思議な教室‐ 第1話 闇のSEXゲーム](http://www.getchu.com/soft.phtml?id=1150003)》的待校对时轴。  
+**05月13日 [+]** 完成《[OVA ○○性指導 ＃6](http://www.getchu.com/soft.phtml?id=1159400)》的待校对字幕。  
+**05月07日 [+]** 完成《[OVA ○○性指導 ＃5](http://www.getchu.com/soft.phtml?id=1159399)》的待校对字幕；<span class="shady">我们却校对和繁化，但我不会日语，不知道怎么考核...</span>创建 [liulipack/blank-timing](https://github.com/liulipack/blank-timing) 仓库，存储空白时轴。  
+**04月07日 [+]** 完成《[うさみみボウケンタン～セクハラしながら世界を救え～ 第四話 最終決戦！勇者と精霊は結ばれ、想いは受け継がれる](http://www.getchu.com/soft.phtml?id=1163795)》《[エロ医師 ワイセツチン療・綾乃＆怜奈～ちょろハメ危嬉いっぱつ～](https://www.getchu.com/soft.phtml?id=1163797)》的待校对字幕。  
+**03月31日 [+]** 完成《[○○交配 第五話 内気な彼女は人魚の歌姫](http://www.getchu.com/soft.phtml?id=1163796)》的待校对字幕。  
+**03月30日 [+]** 完成《[Abandon ‐100ヌキしないと出られない不思議な教室‐ 第1話 闇のSEXゲーム](http://www.getchu.com/soft.phtml?id=1150003)》的待校对字幕。  
 **02月25日 [+]** 完成《[OVA 茜ハ摘マレ染メラレル ＃2](http://www.getchu.com/soft.phtml?id=1154468)》的空白时轴。  
 **02月23日 [+]** 完成《[OVA 茜ハ摘マレ染メラレル ＃1](http://www.getchu.com/soft.phtml?id=1154467)》的空白时轴。  
 **02月11日 [+]** Minecraft Java Edition 1.8.* 类 2B2T 服务器完工。(50.93.205.138:25566)  
-**02月04日 [+]** 完成《[エロ医師 清純無垢っつり・綾乃～不純診察中ズリ触診～](http://www.getchu.com/soft.phtml?id=1155733)》的待校对时轴。  
-**02月02日 [+]** 完成《[OVA 巨乳エルフ母娘催眠 ＃1 エルフの国を蹂躙する男。汚された女王と姫](http://www.getchu.com/soft.phtml?id=1154455)》的待校对时轴。<span class="shady">我们还在。</span>  
+**02月04日 [+]** 完成《[エロ医師 清純無垢っつり・綾乃～不純診察中ズリ触診～](http://www.getchu.com/soft.phtml?id=1155733)》的待校对字幕。  
+**02月02日 [+]** 完成《[OVA 巨乳エルフ母娘催眠 ＃1 エルフの国を蹂躙する男。汚された女王と姫](http://www.getchu.com/soft.phtml?id=1154455)》的待校对字幕。<span class="shady">我们还在。</span>  
 
 ### 2021年
-**全年总结 [~]** 通过 qBittorrent 统计分享率达 5.67；5月3日至12月31日共完成 28 部动画待校对时轴；在琉璃神社社区、灵梦广场和南+求助板块完成 1660(琉璃神社社区 1599 次，灵梦广场 22 次，南+求助板块 39 次) 次回复，其中灵梦广场和南+经过详细对比完全为帮扶性回复，琉璃神社社区包含部分聊天类回复；完成 3 期《CSGO 高光时刻》系列作品，搬运 3 部他人作品至国际互联网平台并署名；完成 H 萌娘的2021年4月至10月里番合集页面编辑。  
-**12月30日 [+]** 完成《[サキュバスアプリ ～学園催眠～ 第3話[溝口ぜらちん]](http://www.getchu.com/soft.phtml?id=1154039)》的待校对时轴。  
-**12月23日 [+]** 完成《[OVA 千鶴ちゃん開発日記 ＃5](http://www.getchu.com/soft.phtml?id=1140071)》的待校对时轴。  
-**12月22日 [+]** 完成《[身体で解決 百鬼屋探偵事務所 ～百鬼屋 光の妖怪事件簿～ 第四話 妖怪大戦争復讐劇](http://www.getchu.com/soft.phtml?id=1147808)》的待校对时轴。<span class="shady">结尾那段强行关联《金田一》，太搞了。</span>  
-**12月21日 [+]** 完成《[コスプレチェンジ～ピュア系女子大生の危険な性癖～ 第一話 巨乳女子大生がコスプレ七変化!?魅惑の妖怪探偵にムチエロチェンジ](http://www.getchu.com/soft.phtml?id=1147809)》的待校对时轴。<span class="shady">作为里番它不实用，作为表里番它很省钱。总结，别看。</span>  
-**12月14日 [+]** 完成《[ママホリック ～魅惑のママと甘々カンケイ～ THE ANIMATION 下巻](http://www.getchu.com/soft.phtml?id=1147555)》的待校对时轴。  
-**12月10日 [+]** 完成《[ママホリック ～魅惑のママと甘々カンケイ～ THE ANIMATION 上巻](http://www.getchu.com/soft.phtml?id=1147554)》的待校对时轴。  
-**12月05日 [+]** 完成《[初めてのヒトヅマ 第3話 デリバリーセックス](http://www.getchu.com/soft.phtml?id=1148637)》的待校对时轴。<span class="shady">[不应期](https://zh.wikipedia.org/wiki/不应期_(性))打轴就是快。</span>  
-**12月04日 [+]** 完成《[そしてわたしはセンセイに…… ～脇の下のアイツ……～](http://www.getchu.com/soft.phtml?id=1147807)》的待校对时轴。  
-**11月29日 [+]** 完成《[ビッチな淫姉さまぁ ＃4[TYPE.90]](http://www.getchu.com/soft.phtml?id=1146141)》的待校对时轴。  
+**全年总结 [~]** 通过 qBittorrent 统计分享率达 5.67；5月3日至12月31日共完成 28 部动画待校对字幕；在琉璃神社社区、灵梦广场和南+求助板块完成 1660(琉璃神社社区 1599 次，灵梦广场 22 次，南+求助板块 39 次) 次回复，其中灵梦广场和南+经过详细对比完全为帮扶性回复，琉璃神社社区包含部分聊天类回复；完成 3 期《CSGO 高光时刻》系列作品，搬运 3 部他人作品至国际互联网平台并署名；完成 H 萌娘的2021年4月至10月里番合集页面编辑。  
+**12月30日 [+]** 完成《[サキュバスアプリ ～学園催眠～ 第3話[溝口ぜらちん]](http://www.getchu.com/soft.phtml?id=1154039)》的待校对字幕。  
+**12月23日 [+]** 完成《[OVA 千鶴ちゃん開発日記 ＃5](http://www.getchu.com/soft.phtml?id=1140071)》的待校对字幕。  
+**12月22日 [+]** 完成《[身体で解決 百鬼屋探偵事務所 ～百鬼屋 光の妖怪事件簿～ 第四話 妖怪大戦争復讐劇](http://www.getchu.com/soft.phtml?id=1147808)》的待校对字幕。<span class="shady">结尾那段强行关联《金田一》，太搞了。</span>  
+**12月21日 [+]** 完成《[コスプレチェンジ～ピュア系女子大生の危険な性癖～ 第一話 巨乳女子大生がコスプレ七変化!?魅惑の妖怪探偵にムチエロチェンジ](http://www.getchu.com/soft.phtml?id=1147809)》的待校对字幕。<span class="shady">作为里番它不实用，作为表里番它很省钱。总结，别看。</span>  
+**12月14日 [+]** 完成《[ママホリック ～魅惑のママと甘々カンケイ～ THE ANIMATION 下巻](http://www.getchu.com/soft.phtml?id=1147555)》的待校对字幕。  
+**12月10日 [+]** 完成《[ママホリック ～魅惑のママと甘々カンケイ～ THE ANIMATION 上巻](http://www.getchu.com/soft.phtml?id=1147554)》的待校对字幕。  
+**12月05日 [+]** 完成《[初めてのヒトヅマ 第3話 デリバリーセックス](http://www.getchu.com/soft.phtml?id=1148637)》的待校对字幕。<span class="shady">[不应期](https://zh.wikipedia.org/wiki/不应期_(性))打轴就是快。</span>  
+**12月04日 [+]** 完成《[そしてわたしはセンセイに…… ～脇の下のアイツ……～](http://www.getchu.com/soft.phtml?id=1147807)》的待校对字幕。  
+**11月29日 [+]** 完成《[ビッチな淫姉さまぁ ＃4[TYPE.90]](http://www.getchu.com/soft.phtml?id=1146141)》的待校对字幕。  
 **11月25日 [+]** 通过[幻城字幕组动态](https://t.bilibili.com/596955790783806461)，成功加入 YuiStar 字幕组。  
-**11月23日 [+]** 完成《[OVA 千鶴ちゃん開発日記 ＃3](http://www.getchu.com/soft.phtml?id=1140069)》的待校对时轴。  
-**11月18日 [+]** 完成《[OVA 千鶴ちゃん開発日記 ＃4](http://www.getchu.com/soft.phtml?id=1140070)》的待校对时轴。  
-**11月16日 [+]** 完成《[オナホ教室 ～女子全員妊娠計画～ THE ANIMATION](http://www.getchu.com/soft.phtml?id=1144249)》的待校对时轴。  
-**11月10日 [+]** 完成《[そしてわたしはおじさんに…… ～揺蕩う食い込み～](http://www.getchu.com/soft.phtml?id=1145525 )》的待校对时轴。  
-**11月07日 [+]** 完成《[家属～母と姉妹の嬌声～ 疼き逸る媚肉・乙葉～揺られ搾られ姉痴漢～](http://www.getchu.com/soft.phtml?id=1145526)》的待校对时轴。  
-**11月05日 [+]** 完成《[うさみみボウケンタン～セクハラしながら世界を救え～ 第二話 可愛いあの娘は新たな刺客！ 無人島のセクハラ暮らし](http://www.getchu.com/soft.phtml?id=1145524)》的待校对时轴。<span class="shady">是我的问题，还是翻译的问题？总感觉怪怪的。</span>  
-**10月26日 [+]** 完成《[OVA 千鶴ちゃん開発日記 ＃2](http://www.getchu.com/soft.phtml?id=1140068)》的待校对时轴。<span class="shady">某句对话里，藏了个彩蛋。不知道正式时轴还在不在。</span>  
-**10月25日 [+]** 完成《[OVA 千鶴ちゃん開発日記 ＃1](http://www.getchu.com/soft.phtml?id=1140067)》的待校对时轴。  
-**10月10日 [+]** 完成《[トイレの花子さんVS屈強退魔師 ～悪堕ちマ○コに天誅ザーメン連続中出し～ 第四怪 愕然『口裂け女』!! 爆乳露出痴女に公然わいせつ連続射精](http://www.getchu.com/soft.phtml?id=1140822)》的待校对时轴。  
-**10月07日 [+]** 完成《[この会社、なにかおかしい...っ! #1](https://www.dlsite.com/maniax/work/=/product_id/RJ342701.html)》的待校对时轴。<span class="shady">我组是没其他时轴了嘛...</span>  
-**10月05日 [+]** 完成《[そしてわたしはセンセイに…… ～でびゅ～ちゃん～](http://www.getchu.com/soft.phtml?id=1140823)》的待校对时轴。  
-**10月02日 [+]** 完成《[この会社、なにかおかしいっ...! #2](https://www.dlsite.com/maniax/work/=/product_id/RJ342702.html)》的待校对时轴。  
+**11月23日 [+]** 完成《[OVA 千鶴ちゃん開発日記 ＃3](http://www.getchu.com/soft.phtml?id=1140069)》的待校对字幕。  
+**11月18日 [+]** 完成《[OVA 千鶴ちゃん開発日記 ＃4](http://www.getchu.com/soft.phtml?id=1140070)》的待校对字幕。  
+**11月16日 [+]** 完成《[オナホ教室 ～女子全員妊娠計画～ THE ANIMATION](http://www.getchu.com/soft.phtml?id=1144249)》的待校对字幕。  
+**11月10日 [+]** 完成《[そしてわたしはおじさんに…… ～揺蕩う食い込み～](http://www.getchu.com/soft.phtml?id=1145525 )》的待校对字幕。  
+**11月07日 [+]** 完成《[家属～母と姉妹の嬌声～ 疼き逸る媚肉・乙葉～揺られ搾られ姉痴漢～](http://www.getchu.com/soft.phtml?id=1145526)》的待校对字幕。  
+**11月05日 [+]** 完成《[うさみみボウケンタン～セクハラしながら世界を救え～ 第二話 可愛いあの娘は新たな刺客！ 無人島のセクハラ暮らし](http://www.getchu.com/soft.phtml?id=1145524)》的待校对字幕。<span class="shady">是我的问题，还是翻译的问题？总感觉怪怪的。</span>  
+**10月26日 [+]** 完成《[OVA 千鶴ちゃん開発日記 ＃2](http://www.getchu.com/soft.phtml?id=1140068)》的待校对字幕。<span class="shady">某句对话里，藏了个彩蛋。不知道正式时轴还在不在。</span>  
+**10月25日 [+]** 完成《[OVA 千鶴ちゃん開発日記 ＃1](http://www.getchu.com/soft.phtml?id=1140067)》的待校对字幕。  
+**10月10日 [+]** 完成《[トイレの花子さんVS屈強退魔師 ～悪堕ちマ○コに天誅ザーメン連続中出し～ 第四怪 愕然『口裂け女』!! 爆乳露出痴女に公然わいせつ連続射精](http://www.getchu.com/soft.phtml?id=1140822)》的待校对字幕。  
+**10月07日 [+]** 完成《[この会社、なにかおかしい...っ! #1](https://www.dlsite.com/maniax/work/=/product_id/RJ342701.html)》的待校对字幕。<span class="shady">我组是没其他时轴了嘛...</span>  
+**10月05日 [+]** 完成《[そしてわたしはセンセイに…… ～でびゅ～ちゃん～](http://www.getchu.com/soft.phtml?id=1140823)》的待校对字幕。  
+**10月02日 [+]** 完成《[この会社、なにかおかしいっ...! #2](https://www.dlsite.com/maniax/work/=/product_id/RJ342702.html)》的待校对字幕。  
 **10月01日 [+]** 扩充、调整久未更新的 [liulipack/GM_script](https://github.com/liulipack/GM_script)。  
-**09月20日 [+]** 完成《[OVA 邪娠娼館―淫乱巨乳母娘生贄儀式― ＃1](http://www.getchu.com/soft.phtml?id=1135329)》的待校对时轴。
+**09月20日 [+]** 完成《[OVA 邪娠娼館―淫乱巨乳母娘生贄儀式― ＃1](http://www.getchu.com/soft.phtml?id=1135329)》的待校对字幕。
