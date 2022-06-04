@@ -43,14 +43,12 @@ document.querySelectorAll('a[href]').forEach((link) => {
 - 常用
   - [琉璃神社](https://www.hacg.cat/wp/bbs/profile/76554) - [社区](https://www.hacg.me/wp/bbs)
   - [灵梦广场](https://acg.is/u/LiuliPack) - [求助板块](https://acg.is/t/wanted)
-  - [南+](https://south-plus.net/u.php?uid-1419056.html) - [询问&求物板块](https://south-plus.net/thread.php?fid=48#c)
   - [Gmail](mailto:liulipack@gmail.com)
 - 低频
   - [哔哩哔哩](https://space.bilibili.com/2091925785)
   - [YouTube](https://www.youtube.com/channel/UCFZdUtZ7p4OZLW-HkBF1oXA)
   - [GitHub](https://github.com/liulipack)
   - [Nyaa-sukebei](https://sukebei.nyaa.si/user/liulipack)
-  - [Facebook](https://www.facebook.com/profile.php?id=100069540391908)
   - [Twitter](https://twitter.com/liulipack)
 - 占位
   - [萌幻之乡](https://www.hmoe11.net/author/732546) - 鹰小队之前有在这投过稿。
@@ -58,6 +56,8 @@ document.querySelectorAll('a[href]').forEach((link) => {
   - [bangumi-废弃、新账号](https://bgm.tv/user/631093) - 忘记之前有注册过。尝试和站长联系把号合并，但并未理睬。
   - [喵子小屋](https://forum.h3dhub.com/space-uid-37585.html) - 喵子字幕组当初在神社有投过稿就顺手注册了。<span class="shady">商业气息太重不想待。</span>
   - [bangumi](https://bgm.tv/user/544460) - 使用 AniDB 代替。
+  - [Facebook](https://www.facebook.com/profile.php?id=100069540391908) - 弃用。后续内容在 Twitter 更新。
+  - [南+](https://south-plus.net/u.php?uid-1419056.html) - [询问&求物板块](https://south-plus.net/thread.php?fid=48#c) - 弃用。桜都不更里番，待着也没意义。
 
 # 我在干什么
 

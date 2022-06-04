@@ -4,9 +4,7 @@
 # 我在哪(不全)
 - [琉璃神社](https://www.hacg.cat/wp/bbs/profile/76554) - [社区](https://www.hacg.me/wp/bbs)
 - [灵梦广场](https://acg.is/u/LiuliPack) - [求助板块](https://acg.is/t/wanted)
-- [南+](https://south-plus.net/u.php?uid-1419056.html) - [询问&求物板块](https://south-plus.net/thread.php?fid=48#c)
 - [Gmail](mailto:liulipack@gmail.com)
-- ...
 
 # 我在干什么
 
