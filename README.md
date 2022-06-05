@@ -10,8 +10,8 @@
 
 ## 2022年
 
+**06月05日 [+]** 完成《[OVA巨乳女戦士・土下座○○ ＃1](http://www.getchu.com/soft.phtml?id=1173203)》的待校对字幕。  
 **05月30日 [+]** 完成《[コスプレチェンジ～ピュア系女子大生の危険な性癖～ 第二話 巨乳女子大生がコスプレ七変化!?疑惑の取り調べ室で手錠拘束プレイ](http://www.getchu.com/soft.phtml?id=1155732)》的待校对字幕。  
-**05月24日 [+]** 完成《[OVA 巨乳エルフ母娘○○ ＃2 女王と姫の快楽調教。守護騎士は○○に沈む](http://www.getchu.com/soft.phtml?id=1154466)》的待校对时轴。  
-**05月20日 [+]** 加入魔穗字幕组；完成《[OVA 巨乳エルフ母娘○○ ＃1 エルフの国を蹂躙する男。汚された女王と姫](http://www.getchu.com/soft.phtml?id=1154455)》的待校对时轴。
+**05月24日 [+]** 完成《[OVA 巨乳エルフ母娘○○ ＃2 女王と姫の快楽調教。守護騎士は○○に沈む](http://www.getchu.com/soft.phtml?id=1154466)》的待校对时轴。
 
 完整内容请移步至 https://github.com/liulipack/liulipack/blob/main/README-Full.md
