@@ -10,8 +10,8 @@
 
 ## 2022年
 
-**06月21日 [+]** 完成《[オタクに優しいギャルとか、巨乳の幼なじみとか。 2 [ふみひこ]](http://www.getchu.com/soft.phtml?id=1157929)》的待校对字幕。  
-**06月05日 [+]** 完成《[OVA巨乳女戦士・土下座○○ ＃1](http://www.getchu.com/soft.phtml?id=1173203)》的待校对字幕。  
-**05月30日 [+]** 完成《[コスプレチェンジ～ピュア系女子大生の危険な性癖～ 第二話 巨乳女子大生がコスプレ七変化!?疑惑の取り調べ室で手錠拘束プレイ](http://www.getchu.com/soft.phtml?id=1155732)》的待校对字幕。
+**07月11日 [+]** 完成《[やみつきフェロモン THE ANIMATION 第2巻](http://www.getchu.com/soft.phtml?id=1155604)》的待校对字幕。  
+**07月10日 [+]** 完成《[やみつきフェロモン THE ANIMATION 第1巻](http://www.getchu.com/soft.phtml?id=1155603)》的待校对字幕。  
+**06月21日 [+]** 完成《[オタクに優しいギャルとか、巨乳の幼なじみとか。 2 [ふみひこ]](http://www.getchu.com/soft.phtml?id=1157929)》的待校对字幕。
 
 完整内容请移步至 https://github.com/liulipack/liulipack/blob/main/README-Full.md
