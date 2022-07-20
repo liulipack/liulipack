@@ -18,8 +18,8 @@
 ## 过去
 
 ### 2022年
+**07月20日 [+]** 加入[極彩花夢字幕组](https://kyokusai.com)。  
 **07月12日 [+]** 为鹰小队完成《[OVA 聖華女学院公認竿おじさん ＃1 黒髪清楚お嬢様 如月巴](http://www.getchu.com/soft.phtml?id=1177909)》的待校对字幕。  
-**07月11日 [+]** 为魔穗完成《[やみつきフェロモン THE ANIMATION 第2巻](http://www.getchu.com/soft.phtml?id=1155604)》的待校对字幕。  
-**07月10日 [+]** 为魔穗完成《[やみつきフェロモン THE ANIMATION 第1巻](http://www.getchu.com/soft.phtml?id=1155603)》的待校对字幕。
+**07月11日 [+]** 为魔穗完成《[やみつきフェロモン THE ANIMATION 第2巻](http://www.getchu.com/soft.phtml?id=1155604)》的待校对字幕。
 
 完整内容请移步至 https://github.com/liulipack/liulipack/blob/main/README-Full.md
