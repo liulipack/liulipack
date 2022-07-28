@@ -1,5 +1,5 @@
 # 我是谁
-始于2019年4月4日的老色批；
+始于2019年4月4日的“黄色废料”。
 
 # 我在哪(不全)
 - [琉璃神社](https://www.hacg.cat/wp/bbs/profile/76554) - [社区](https://www.hacg.me/wp/bbs)
@@ -18,8 +18,8 @@
 ## 过去
 
 ### 2022年
-**07月26日 [+]** 为極彩花夢完成《[ハーレム・カルト 1 side HAREM［宇場義行］](http://www.getchu.com/soft.phtml?id=1170139)》的空白字幕。  
-**07月23日 [+]** 为極彩花夢完成《[JK限界交尾 ～合意挿入でバチバチ肉穴化～ 第1話 性活部へようこそ](http://www.getchu.com/soft.phtml?id=1177158)》的空白字幕。  
-**07月22日 [+]** 为極彩花夢完成《[ツグナヒ 高飛車お姫様・瑠璃子～はじまりの痴激～](http://www.getchu.com/soft.phtml?id=1174716)》的空白字幕。
+**07月28日 [+]** 为極彩花夢完成《[夏休み明けの彼女は・・・前編](http://www.getchu.com/soft.phtml?id=1177159)》的空白字幕。  
+**07月27日 [+]** 为極彩花夢完成《[ハーレム・カルト 2 side HAREM［宇場義行］](http://www.getchu.com/soft.phtml?id=1170140)》的空白字幕。  
+**07月26日 [+]** 为極彩花夢完成《[ハーレム・カルト 1 side HAREM［宇場義行］](http://www.getchu.com/soft.phtml?id=1170139)》的空白字幕。<span class="mask">搞错了，白忙活</span>
 
 完整内容请移步至 https://github.com/liulipack/liulipack/blob/main/README-Full.md
