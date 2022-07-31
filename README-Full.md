@@ -82,7 +82,7 @@ document.querySelectorAll('a[href]').forEach((link) => {
 **07月26日 [+]** 为極彩花夢完成《[ハーレム・カルト 1 side HAREM［宇場義行］](http://www.getchu.com/soft.phtml?id=1170139)》的空白字幕。<span class="mask">搞错了，白忙活</span>  
 **07月23日 [+]** 为極彩花夢完成《[JK限界交尾 ～合意挿入でバチバチ肉穴化～ 第1話 性活部へようこそ](http://www.getchu.com/soft.phtml?id=1177158)》的空白字幕。  
 **07月22日 [+]** 为極彩花夢完成《[ツグナヒ 高飛車お姫様・瑠璃子～はじまりの痴激～](http://www.getchu.com/soft.phtml?id=1174716)》的空白字幕。  
-**07月20日 [+]** 加入[極彩花夢](https://kyokusai.com)。根据 Nyaa 相关资源页信息加入了聊天群组，之后就看到组长抱怨。在私聊表明可以无偿帮忙被拒后，成为组员；为極彩花夢完成《[エロ医師 清純ドエロ・綾乃～漲る好奇芯～](http://www.getchu.com/soft.phtml?id=1174717)》的空白字幕。  
+**07月20日 [+]** 加入[極彩花夢](https://kyokusai.com)。根据 Nyaa 相关资源页信息加入了聊天群组，看到组长抱怨。在私聊表明可以无偿帮忙被拒后，成为组员；为極彩花夢完成《[エロ医師 清純ドエロ・綾乃～漲る好奇芯～](http://www.getchu.com/soft.phtml?id=1174717)》的空白字幕。  
 **07月15日 [+]** 为鹰小队完成《[OVA 聖華女学院公認竿おじさん ＃2 陸上少女 加藤美桜](http://www.getchu.com/soft.phtml?id=1177910)》的待校对字幕。  
 **07月12日 [+]** 为鹰小队完成《[OVA 聖華女学院公認竿おじさん ＃1 黒髪清楚お嬢様 如月巴](http://www.getchu.com/soft.phtml?id=1177909)》的待校对字幕。  
 **07月11日 [+]** 为魔穗完成《[やみつきフェロモン THE ANIMATION 第2巻](http://www.getchu.com/soft.phtml?id=1155604)》的待校对字幕。  
