@@ -71,7 +71,7 @@ document.querySelectorAll('a[href]').forEach((link) => {
 - 新人视频作者；
 - 我在琉璃神社和灵梦广场提供无偿帮助；
 - [琉璃神社壁纸包保种者](HACGWallpaperSet.md)；
-- ~~番茄工作法践行者~~。当我没说
+- 番茄工作法践行者。当我没说
 
 ## 过去
 
