@@ -82,7 +82,7 @@ document.querySelectorAll('a[href]').forEach((link) => {
 **07月26日 [+]** 为極彩花夢完成《[ハーレム・カルト 1 side HAREM［宇場義行］](http://www.getchu.com/soft.phtml?id=1170139)》的空白字幕。<span class="mask">搞错了，白忙活</span>  
 **07月23日 [+]** 为極彩花夢完成《[JK限界交尾 ～合意挿入でバチバチ肉穴化～ 第1話 性活部へようこそ](http://www.getchu.com/soft.phtml?id=1177158)》的空白字幕。  
 **07月22日 [+]** 为極彩花夢完成《[ツグナヒ 高飛車お姫様・瑠璃子～はじまりの痴激～](http://www.getchu.com/soft.phtml?id=1174716)》的空白字幕。  
-**07月20日 [+]** 加入[極彩花夢字幕组](https://kyokusai.com)；为極彩花夢完成《[エロ医師 清純ドエロ・綾乃～漲る好奇芯～](http://www.getchu.com/soft.phtml?id=1174717)》的空白字幕。  
+**07月20日 [+]** 加入[極彩花夢](https://kyokusai.com)。在 Nyaa 看到发布的资源也有相关聊天群组，加入之后就看到组长抱怨。在私聊说可以无偿帮忙被拒后，成为组员；为極彩花夢完成《[エロ医師 清純ドエロ・綾乃～漲る好奇芯～](http://www.getchu.com/soft.phtml?id=1174717)》的空白字幕。  
 **07月15日 [+]** 为鹰小队完成《[OVA 聖華女学院公認竿おじさん ＃2 陸上少女 加藤美桜](http://www.getchu.com/soft.phtml?id=1177910)》的待校对字幕。  
 **07月12日 [+]** 为鹰小队完成《[OVA 聖華女学院公認竿おじさん ＃1 黒髪清楚お嬢様 如月巴](http://www.getchu.com/soft.phtml?id=1177909)》的待校对字幕。  
 **07月11日 [+]** 为魔穗完成《[やみつきフェロモン THE ANIMATION 第2巻](http://www.getchu.com/soft.phtml?id=1155604)》的待校对字幕。  
@@ -91,7 +91,7 @@ document.querySelectorAll('a[href]').forEach((link) => {
 **06月05日 [+]** 完成《[OVA巨乳女戦士・土下座○○ ＃1](http://www.getchu.com/soft.phtml?id=1173203)》的待校对字幕。  
 **05月30日 [+]** 完成《[コスプレチェンジ～ピュア系女子大生の危険な性癖～ 第二話 巨乳女子大生がコスプレ七変化!?疑惑の取り調べ室で手錠拘束プレイ](http://www.getchu.com/soft.phtml?id=1155732)》的待校对字幕。  
 **05月24日 [+]** 完成《[OVA 巨乳エルフ母娘○○ ＃2 女王と姫の快楽調教。守護騎士は○○に沈む](http://www.getchu.com/soft.phtml?id=1154466)》的待校对字幕。<span class="mask">不实用。短短16分钟，塞下了四位女性角色和片尾。</span>  
-**05月20日 [+]** 加入魔穗字幕组；完成《[OVA 巨乳エルフ母娘○○ ＃1 エルフの国を蹂躙する男。汚された女王と姫](http://www.getchu.com/soft.phtml?id=1154455)》的待校对字幕。  
+**05月20日 [+]** 加入魔穗字幕组。此前就想加入魔穗，在御所正好看到就入组了；完成《[OVA 巨乳エルフ母娘○○ ＃1 エルフの国を蹂躙する男。汚された女王と姫](http://www.getchu.com/soft.phtml?id=1154455)》的待校对字幕。  
 **05月15日 [+]** 完成《[OVA ○○性指導 ＃5](http://www.getchu.com/soft.phtml?id=1159399)》《[OVA ○○性指導 ＃6](http://www.getchu.com/soft.phtml?id=1159400)》的字幕修正。<span class="mask">等待繁体化版本制作完成一同发布。</span>  
 **05月13日 [+]** 完成《[OVA ○○性指導 ＃6](http://www.getchu.com/soft.phtml?id=1159400)》的待校对字幕。  
 **05月07日 [+]** 完成《[OVA ○○性指導 ＃5](http://www.getchu.com/soft.phtml?id=1159399)》的待校对字幕。<span class="mask">我们却校对和繁化，但我不会日语，不知道怎么考核...</span>创建 [liulipack/blank-timing](https://github.com/liulipack/blank-timing) 仓库，存储空白时轴。  
@@ -130,3 +130,6 @@ document.querySelectorAll('a[href]').forEach((link) => {
 **10月02日 [+]** 完成《[この会社、なにかおかしいっ...! #2](https://www.dlsite.com/maniax/work/=/product_id/RJ342702.html)》的待校对字幕。  
 **10月01日 [+]** 扩充、调整久未更新的 [liulipack/GM_script](https://github.com/liulipack/GM_script)。  
 **09月20日 [+]** 完成《[OVA 邪娠娼館―淫乱巨乳母娘生贄儀式― ＃1](http://www.getchu.com/soft.phtml?id=1135329)》的待校对字幕。
+
+# 2020年
+**10月06日 [+]** 加入鹰小队字幕组。当时桜都爆出被抄袭事件，不名真相的我选择加入鹰小队。如今看来似乎是选错边了。<span class="mask">入组后也没好意思问组长具体什么情况；由于腾讯号被封的原因，导致具体时间不可考。标注时间仅为推测。</span>
