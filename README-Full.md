@@ -76,6 +76,7 @@ document.querySelectorAll('a[href]').forEach((link) => {
 ## 过去
 
 ### 2022年
+**07月31日 [+]** 为極彩花夢完成《[コンビニ少女Z 第四話 あなた、コンビニマネですよね。本社に万引きがバレていいんですか？](http://www.getchu.com/soft.phtml?id=1179245)》的空白字幕。
 **07月31日 [+]** 为極彩花夢完成《[搾精病棟 THE ANIMATION 第2巻 ～クロカワ編～](http://www.getchu.com/soft.phtml?id=1179049)》的空白字幕。  
 **07月28日 [+]** 为極彩花夢完成《[夏休み明けの彼女は・・・前編](http://www.getchu.com/soft.phtml?id=1177159)》的空白字幕。  
 **07月27日 [+]** 为極彩花夢完成《[ハーレム・カルト 2 side HAREM［宇場義行］](http://www.getchu.com/soft.phtml?id=1170140)》的空白字幕。  
