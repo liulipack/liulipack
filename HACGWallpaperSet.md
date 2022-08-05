@@ -8,9 +8,9 @@
 - 10月([神社链接] / [磁链哈希]) - 占位
 - 09月([神社链接] / [磁链哈希]) - 占位
 - 08月([神社链接] / [磁链哈希]) - 占位
-- 07月(https://www.hacg.me/wp/93563.html / [9990560fbda179f71d9ad7b4cbb438b0c0ce14d3](https://lpack.oss-cn-hangzhou.aliyuncs.com/ETC/Torrent/[HACG-Wallpaper-pack_202207]9990560fbda179f71d9ad7b4cbb438b0c0ce14d3.torrent)) - 占位
-- 06月(https://www.hacg.me/wp/92795.html / [6a1fdf252d9f39e5dd5ede739959f403d87a879e](https://lpack.oss-cn-hangzhou.aliyuncs.com/ETC/Torrent/[HACG-Wallpaper-pack_202206]6a1fdf252d9f39e5dd5ede739959f403d87a879e.torrent)) - 占位
-- 05月(https://www.hacg.me/wp/92257.html / f0fcf714a44cdc4c1acd8e98bff1a165709d3af5) - 占位
+- 07月(https://www.hacg.me/wp/93563.html / [9990560fbda179f71d9ad7b4cbb438b0c0ce14d3](https://lpack.oss-cn-hangzhou.aliyuncs.com/ETC/Torrent/[HACG-Wallpaper-pack_202207]9990560fbda179f71d9ad7b4cbb438b0c0ce14d3.torrent)) - 保种中
+- 06月(https://www.hacg.me/wp/92795.html / [6a1fdf252d9f39e5dd5ede739959f403d87a879e](https://lpack.oss-cn-hangzhou.aliyuncs.com/ETC/Torrent/[HACG-Wallpaper-pack_202206]6a1fdf252d9f39e5dd5ede739959f403d87a879e.torrent)) - 保种中
+- 05月(https://www.hacg.me/wp/92257.html / f0fcf714a44cdc4c1acd8e98bff1a165709d3af5) - 保种中(Torrent 文件获取失败)
 - 04月(https://www.hacg.me/wp/91634.html / [33e35267f0815d1ab81ddccc6bace6bfeb60e6d5](https://lpack.oss-cn-hangzhou.aliyuncs.com/ETC/Torrent/[HACG-Wallpaper-pack_202204]33e35267f0815d1ab81ddccc6bace6bfeb60e6d5.torrent)) - 保种中
 - 03月(https://www.hacg.me/wp/90843.html / [7ecd3e9d825a776bdaa0e735e8269bf94528fe71838f0e56dcbe28bfce97e776](https://lpack.oss-cn-hangzhou.aliyuncs.com/ETC/Torrent/[HACG-Wallpaper-pack_202203]7ecd3e9d825a776bdaa0e735e8269bf94528fe71838f0e56dcbe28bfce97e776.torrent)) - 保种中
 - 02月(https://www.hacg.me/wp/90077.html / [d6f248d7aed5566fa3ded6c7fd8112ef8570e8e5](https://lpack.oss-cn-hangzhou.aliyuncs.com/ETC/Torrent/[HACG-Wallpaper-pack_202202]d6f248d7aed5566fa3ded6c7fd8112ef8570e8e5.torrent)) - 保种中
