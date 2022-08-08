@@ -76,7 +76,8 @@ document.querySelectorAll('a[href]').forEach((link) => {
 ## 过去
 
 ### 2022年
-**08月02日 [+]** 为極彩花夢完成《[ハヂ＋ ～晒される羞チ心～](http://www.getchu.com/soft.phtml?id=1179246)》的空白字幕。  
+**08月08日 [+]** 为鹰小队完成《[聖○○学園2 ～後編～ 剥奪された権力](http://www.getchu.com/soft.phtml?id=1185400)》的空白字幕。 <span class="mask">你没看错，是空轴。翻译内容质量太差，恰好又碰上重叠对话特别多的作品。在经过组长同意后做了空轴。</span> 
+**08月07日 [+]** 为極彩花夢完成《[ハヂ＋ ～晒される羞チ心～](http://www.getchu.com/soft.phtml?id=1179246)》的空白字幕。  
 **08月03日 [+]** 为 [@DeXiao](https://github.com/De-Xiao) 完成《[契约之吻](https://engage-kiss.com/bddvd/)》S01E04 的部分待校对字幕。  
 **08月02日 [+]** 为鹰小队完成《[搾精病棟 THE ANIMATION 第2巻 ～クロカワ編～](http://www.getchu.com/soft.phtml?id=1179049)》的待校对字幕<span class="mask">基于極彩花夢的空轴</span>；为極彩花夢完成《[ＳＵＭＭＥＲ 〜田舎の性活〜　第一話　日焼けの跡とスクール水着](http://www.getchu.com/soft.phtml?id=1186757)》的空白字幕。  
 **07月31日 [+]** 为極彩花夢完成《[コンビニ少女Z 第四話 あなた、コンビニマネですよね。本社に万引きがバレていいんですか？](http://www.getchu.com/soft.phtml?id=1179245)》的空白字幕。  
