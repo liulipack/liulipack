@@ -70,7 +70,7 @@ document.querySelectorAll('a[href]').forEach((link) => {
 - 我在[鹰小队翻译组](https://taka-sub.github.io)、[魔穗字幕组](https://sukebei.nyaa.si/user/Maho-subs)和[極彩花夢字幕组](https://kyokusai.com)无偿制作动画时间轴和一般压制；~~YuiStar 字幕组时间轴和一般压制<span class="mask">他们还在用着我早就弃用的某 IM 软件，回去的话不知道还能不能认我是组员...</span>；~~
 - 新人视频作者；
 - 我在琉璃神社和灵梦广场提供无偿帮助；
-- [琉璃神社壁纸包保种者](HACGWallpaperSet.md)；
+- [琉璃神社壁纸包保种者](HACGWallpaperSet.md)；<span class="mask">如果安装了`样式调整`脚本请新建页面打开它。</span>
 - 番茄工作法践行者。当我没说
 
 ## 过去
