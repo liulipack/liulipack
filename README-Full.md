@@ -76,6 +76,7 @@ document.querySelectorAll('a[href]').forEach((link) => {
 ## 过去
 
 ### 2022年
+**08月13日 [~]** 打算离开除魔穗外的字幕组、翻译组，自建 [Pure-Timing](https://github.com/liulipack/Pure-Timing) 仓库完成空白时轴。  
 **08月08日 [+]** 为鹰小队完成《[聖○○学園2 ～後編～ 剥奪された権力](http://www.getchu.com/soft.phtml?id=1185400)》的空白字幕。 <span class="mask">你没看错，是空轴。翻译内容质量太差，恰好又碰上重叠对话特别多的作品。在经过组长同意后做了空轴。</span>  
 **08月07日 [+]** 为極彩花夢完成《[ハヂ＋ ～晒される羞チ心～](http://www.getchu.com/soft.phtml?id=1179246)》的空白字幕。  
 **08月03日 [+]** 为 [@DeXiao](https://github.com/De-Xiao) 完成《[契约之吻](https://engage-kiss.com/bddvd/)》S01E04 的部分待校对字幕。  
@@ -105,7 +106,7 @@ document.querySelectorAll('a[href]').forEach((link) => {
 **03月30日 [+]** 完成《[Abandon ‐100ヌキしないと出られない不思議な教室‐ 第1話 闇のSEXゲーム](http://www.getchu.com/soft.phtml?id=1150003)》的待校对字幕。  
 **02月25日 [+]** 完成《[OVA 茜ハ摘マレ染メラレル ＃2](http://www.getchu.com/soft.phtml?id=1154468)》的空白时轴。  
 **02月23日 [+]** 完成《[OVA 茜ハ摘マレ染メラレル ＃1](http://www.getchu.com/soft.phtml?id=1154467)》的空白时轴。  
-**02月11日 [+]** Minecraft Java Edition 1.8.* 类 2B2T 服务器完工。(50.93.205.138:25566)  
+**02月11日 [+]** Minecraft Java Edition 1.8.* 类 2B2T 服务器完工。(已关服)  
 **02月04日 [+]** 完成《[エロ医師 清純無垢っつり・綾乃～不純診察中ズリ触診～](http://www.getchu.com/soft.phtml?id=1155733)》的待校对字幕。  
 **02月02日 [+]** 完成《[OVA 巨乳エルフ母娘催眠 ＃1 エルフの国を蹂躙する男。汚された女王と姫](http://www.getchu.com/soft.phtml?id=1154455)》的待校对字幕。<span class="mask">我们还在。</span>  
 
