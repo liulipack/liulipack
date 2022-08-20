@@ -76,6 +76,7 @@ document.querySelectorAll('a[href]').forEach((link) => {
 ## 过去
 
 ### 2022年
+**08月20日 [+]** 为魔穗完成《[小さな蕾のその奥に…… 〜妖しく齧る戯れた蕾……♥〜](http://nur.a1c.jp/nur_brand/product/tubomi/index_tubomi_04.html)》《[思春期のお勉強 第2話 学ぶより経験がしたいお年頃](https://mary-jane.biz/mysite1/shouhinlist.html)》的待校对字幕。<span class="mask">一… 一滴都没有了……</span>  
 **08月16日 [+]** 为鹰小队完成部分(10:20/16:13)《[OVA 聖華女学院公認竿おじさん ＃4 金髪爆乳生徒会長ルイーザ・リヒター](http://www.getchu.com/soft.phtml?id=1177912)》的待校对字幕。  
 **08月11日 [+]** 为極彩花夢完成部分(05:17/28:30)《[搾精病棟 THE ANIMATION ～タチバナ編～](http://www.getchu.com/soft.phtml?id=1122386)仓库完成空白时轴。  
 **08月13日 [~]** 打算离开除魔穗外的字幕组、翻译组，自建 [Pure-Timing](https://github.com/liulipack/Pure-Timing) 仓库完成空白时轴。  
